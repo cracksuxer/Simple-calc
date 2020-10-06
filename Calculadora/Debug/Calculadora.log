@@ -1,0 +1,3 @@
+﻿  Calculadora.cpp
+C:\Users\Rules\source\repos\Calculadora\Calculadora\Calculadora.cpp(95): warning C4715: 'errorHandling': not all control paths return a value
+  Calculadora.vcxproj -> C:\Users\Rules\source\repos\Calculadora\Debug\Calculadora.exe
